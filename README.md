@@ -9,3 +9,4 @@ we used LabelStudio tool for Annotation ,where each word has a NER tag specifyin
 The NER tag follows a special format used widely in NER literature called the IOB format (Inside, Outside, Beginning Format). This format gives us a way to not only tag entities, but to indicate which words are part of the same entity:
 and saved data in .conll format.
 
+<img src="https://github.com/monika2910/Resume-NER-/blob/main/Tumbnails/NER_Result.jpg"  />
